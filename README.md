@@ -1,6 +1,7 @@
 <p align="center">
-  ![image](https://github.com/saketh1999/low_level_design_mastery/assets/48793201/de46da99-7dba-47e3-bbca-ec4ebfd750b7)
+ <img src = "image/LLD.png" width="350" height="200">
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sssaketh/">LinkedIn</a> 
 </p>
