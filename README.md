@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sssaketh/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/sssaketh/">You can follow me on LinkedIn</a> 
 </p>
 Learn Low Level Design (LLD) and prepare for interviews using free resources.
 <p>
