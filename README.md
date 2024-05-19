@@ -6,7 +6,9 @@
   <a href="https://www.linkedin.com/in/sssaketh/">LinkedIn</a> 
 </p>
 Learn Low Level Design (LLD) and prepare for interviews using free resources.
-<a href = "https://www.youtube.com/watch?v=OhCp6ppX6bg">YT Video</a>
+<p>
+ <a href = "https://www.youtube.com/watch?v=OhCp6ppX6bg">YT Video</a>
+</p>
 ## Fundamental Concepts
 - [Basics OOP Concepts](https://newsletter.ashishps.com/p/basic-oop-concepts-explained-with-code)
 - [SOLID Principles with Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
